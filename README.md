@@ -2,26 +2,31 @@
 SQL project analyzing e-commerce sales data to uncover revenue trends, customer behavior, and product performance.
 
 ## Project Overview
-This project analyzes an e-commerce sales dataset using SQL. The goal is to extract business insights such as total revenue, customer behavior, product performance, and sales trends.
+This project analyzes an e-commerce sales dataset using SQL to uncover key business insights such as revenue trends, customer behavior, product performance, and geographic sales distribution.
+
+The goal of this project is to demonstrate SQL skills used in real-world business analysis, including data exploration, aggregation, ranking, and trend analysis.
 
 ## Tools Used
 - SQL (MySQL)
 - GitHub
 - Excel (for dataset preparation)
 
-## Dataset
-The dataset contains order-level transaction data including:
+## Dataset Description
+The dataset contains transaction-level e-commerce order data with the following fields:
 
-- Order ID
-- User ID
-- Product ID
-- Category
-- Price
-- Quantity
-- Total Price
-- Order Date
-- Country
-- Customer Segment
+| Column | Description |
+|------|-------------|
+| order_id | Unique identifier for each order |
+| user_id | Unique identifier for each customer |
+| product_id | Unique identifier for each product |
+| category | Product category |
+| price | Price per unit |
+| qty | Quantity purchased |
+| total_price | Total price of the order |
+| order_date | Date and time of the transaction |
+| country | Country where the order was placed |
+| customer_segment | Customer segment classification |
+
 
 ## Analysis Performed
 
