@@ -58,7 +58,7 @@ The dataset contains transaction-level e-commerce order data with the following 
 - Observed monthly revenue patterns
 
 ## Results
-The analysis results are available in the `results` folder as CSV files.
+The analysis results are available as CSV files.
 
 Key outputs include:
 
