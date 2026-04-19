@@ -57,6 +57,17 @@ The dataset contains transaction-level e-commerce order data with the following 
 - Found top spending customers
 - Observed monthly revenue patterns
 
+## Results
+The analysis results are available in the `results` folder as CSV files.
+
+Key outputs include:
+
+- Revenue by Country
+- Revenue by Product Category
+- Monthly Revenue Trends
+- Top Customers by Revenue
+- Customer Segment Performance
+
 ## How to Run This Project
 1. Create the database
 2. Import the dataset
