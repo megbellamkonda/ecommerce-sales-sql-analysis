@@ -6,6 +6,15 @@ This project analyzes an e-commerce sales dataset using SQL to uncover key busin
 
 The goal of this project is to demonstrate SQL skills used in real-world business analysis, including data exploration, aggregation, ranking, and trend analysis.
 
+## Business Recommendations
+
+Based on the analysis:
+
+- Increase marketing efforts in top-performing countries to maximize revenue growth.
+- Expand product offerings within high-performing categories to capitalize on customer demand.
+- Develop retention and loyalty initiatives targeting high-value customers.
+- Use monthly revenue trends to improve inventory planning and seasonal forecasting.
+
 ## Tools Used
 - SQL (MySQL)
 - GitHub
